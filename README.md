@@ -1,2 +1,2 @@
 # Flatland-Benchmarks
-This repo aim to give access to the tests used to assess performance of the flatland framework. Those tests were realized in the context of my bachelor project. 
+This repo aim to give access to the tests used to assess the performance of the environment generation of the Flatland framework. To reproduce the results presented in my work, one should setup two python environment with the following two flatland package version: v4.0.1 and v4.0.2. The version v4.0.2 integrate the result of my review of the A* algorithm. To successfully run the notebook, please follow the installation tutorial of the flatland repository. To install a specific version of a package simply with pip, simply run `pip install flatland==4.0.1` and `pip install flatland==4.0.2`
